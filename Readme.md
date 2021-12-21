@@ -1,6 +1,5 @@
 # 综合实验作业（图像处理程序）
 
-
 我做了两个版本，一个基于深度学习，一个基于传统的机器学习和图像处理
 
 ## 一 基于深度学习
@@ -48,6 +47,11 @@
 - pip install -r requirements.txt
 
 #### 使用
+
+下载 YOLO5 checkpoints 参数文件解压
+
+链接：https://pan.baidu.com/s/1VfHtUmlcfFxa2kMEo7ywrA 
+		提取码：gma0
 
 项目目录结构
 
